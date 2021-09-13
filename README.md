@@ -15,4 +15,9 @@ This repository is used as high level overview of the projects I've worked on.
 - Still nothing
 
 ## Others
-- Reproducing some Well-Known Models
+- [Well-Known Models](https://github.com/damianoimola/DL-Models): This model is used to reproduce some well-known models and approach to some simple problem to solve.
+  - ResNet
+  - Siamese Network
+  - ImoNet (Custom personal Model)
+  - Simple classification model
+  - Simple localization model
