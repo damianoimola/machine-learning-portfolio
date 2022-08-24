@@ -13,9 +13,6 @@ This repository is used as high level overview of the projects I've worked on. (
 ## AutoEncoders
 - Still nothing
 
-## Machine Learning
-- Still nothing
-
 ## Others
 - [Well-Known Models](https://github.com/damianoimola/DL-Models): This section is used to reproduce some well-known models and approach to some simple problem to solve.
   - ResNet
