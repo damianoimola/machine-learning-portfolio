@@ -7,10 +7,10 @@ This repository is used as high level overview of the projects I've worked on. (
   - Image Recognition with Mnist Digit Dataset
   - Image Classification with animal10 dataset (got from a Kaggle's user)
 
-## Natural Language Processing
+## Neural Style Transfer
 - Still nothing
 
-## Speech Recognition
+## AutoEncoders
 - Still nothing
 
 ## Machine Learning
